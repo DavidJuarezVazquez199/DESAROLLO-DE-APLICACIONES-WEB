@@ -1,0 +1,29 @@
+body{
+    background-image: url(https://png.pngtree.com/thumb_back/fw800/background/20190222/ourmid/pngtree-starry-blue-purple-starry-minimalist-dark-background-skybluepurplesimpledarkstarnight-image_56899.jpg);
+    font-family: 'Poppins', sans-serif;
+    color: rgb(250, 242, 242);
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: rgb(10, 54, 148);
+  }
+  
+  li {
+    float: left;
+  }
+  
+  li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  
+  li a:hover {
+    background-color: rgb(230, 222, 222);
+  }
