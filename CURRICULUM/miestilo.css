@@ -1,0 +1,33 @@
+body{
+    background-image: url(imagenes/fondo.jpg);
+    font-family:Arial, Helvetica, sans-serif;
+}
+#principal{
+
+    background-image: url(imagenes/dentro.jpg);
+        border:solid 3px rgb(12, 144, 221);
+        width: 70%;
+        margin: 0 auto;
+        padding: 20px;
+    }
+    fieldset{
+        margin-bottom: 10px;
+        border:solid 2px rgb(230, 229, 235);
+    }
+    legend{
+        border: solid 3px rgb(46, 20, 161);
+        padding:1px ;
+        font-weight: bold;
+    }
+
+    #mifoto{
+        border:solid 2px rgb(129, 123, 180);
+        width: 20%;
+        margin: 7px;
+        padding: 5px;
+    }
+    fieldset{
+        margin-bottom: 10px;
+        border:solid 2px rgb(18, 29, 173);
+    }
+ 
